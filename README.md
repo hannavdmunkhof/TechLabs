@@ -1,2 +1,2 @@
 # TechLabs
-code written for the Data Science course Techlabs (Aachen)
+code written for the Data Science program Techlabs (Aachen, Germany)
