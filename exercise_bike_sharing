@@ -240,7 +240,7 @@
         "id": "3tK0g33UcTPX"
       },
       "source": [
-        "Import bike sharing dataset by loading the `bikesharing.csv` file.\n",
+        "Import bike sharing dataset by loading the `data_bikesharing.csv` file.\n",
         "\n",
         "<h4><font color='red'>TODO! COMPLETE THIS SECTION!</font></h4>"
       ]
